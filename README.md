@@ -1,49 +1,70 @@
-# Face Detection using OpenCV
-## 🚀 Live Demo
+````markdown
+# 📷 Face Detection using OpenCV
 
-👉 **[Click here to use the app](https://face-detection-rc4039647.streamlit.app)**
+[![Live Demo](https://img.shields.io/badge/🚀-Live%20Demo-success?style=for-the-badge)](https://YOUR-APP-NAME.streamlit.app)
 
-## Overview
+## 🌐 Live Application
 
-This project detects human faces in an image using OpenCV's Haar Cascade Classifier.
-
-The program can:
-
-- Detect faces from an uploaded image
-- Capture an image using a webcam (Google Colab)
-- Draw rectangles around detected faces
-- Display the total number of detected faces
+👉 **Use the application here:**  
+https://YOUR-APP-NAME.streamlit.app
 
 ---
 
-## Technologies Used
+## 📌 Project Overview
+
+This project is a web-based Face Detection application built using **Python**, **OpenCV**, and **Streamlit**.
+
+The application allows users to upload an image and automatically detects human faces using OpenCV's Haar Cascade Classifier. Each detected face is highlighted with a bounding box, and the total number of detected faces is displayed.
+
+---
+
+## 🚀 Features
+
+- Upload JPG, JPEG, or PNG images
+- Detect one or multiple faces
+- Draw bounding boxes around detected faces
+- Display the number of faces detected
+- Simple and responsive Streamlit interface
+
+---
+
+## 🛠 Technologies Used
 
 - Python
 - OpenCV
-- TensorFlow
+- Streamlit
 - NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
 
 ---
 
-## Installation
+## 📂 Project Structure
 
-Clone the repository
-
-```bash
-git clone https://github.com/USERNAME/face_detection.git
+```text
+face_detection/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+└── .gitignore
 ```
 
-Go inside the project
+---
+
+## ⚙ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/rc4039647-glitch/face_detection.git
+```
+
+Move into the project folder:
 
 ```bash
 cd face_detection
 ```
 
-Install dependencies
+Install the required packages:
 
 ```bash
 pip install -r requirements.txt
@@ -51,44 +72,38 @@ pip install -r requirements.txt
 
 ---
 
-## Run the Project
+## ▶️ Run the Project
 
 ```bash
-python face_detection.py
+streamlit run app.py
+```
+
+The application will open automatically in your browser.
+
+---
+
+## 📷 How to Use
+
+1. Launch the application.
+2. Upload an image containing one or more faces.
+3. Wait for processing.
+4. View the detected faces and total face count.
+
+---
+
+## 📦 Requirements
+
+```text
+streamlit
+opencv-python-headless
+numpy
 ```
 
 ---
 
-## Features
+## 👨‍💻 Author
 
-- Face Detection
-- Haar Cascade Classifier
-- Webcam Capture (Google Colab)
-- Automatic Sample Image Download
-- Face Count Display
+**Ritikaa Chaurasia**
 
----
-
-## Project Structure
-
-```
-face_detection/
-│
-├── face_detection.py
-├── requirements.txt
-├── README.md
-├── .gitignore
-└── sample_face.jpg
-```
-
----
-
-## Output
-
-The program detects faces and draws blue rectangles around each detected face.
-
----
-
-## Author
-
-Ritika Chaurasia
+GitHub: https://github.com/rc4039647-glitch
+````
