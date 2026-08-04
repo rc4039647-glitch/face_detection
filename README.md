@@ -48,6 +48,10 @@ pip install -r requirements.txt
 
 ---
 
+## 🚀 Live Demo
+
+👉 **[Click here to use the app](https://your-app-name.streamlit.app)**
+
 ## Run the Project
 
 ```bash
