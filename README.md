@@ -1,8 +1,7 @@
 # Face Detection using OpenCV
-
 ## 🚀 Live Demo
 
-👉 **[Click here to use the app](https://your-app-name.streamlit.app)**
+👉 **[Click here to use the app](https://face-detection-rc4039647.streamlit.app)**
 
 ## Overview
 
