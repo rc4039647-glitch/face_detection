@@ -1,8 +1,10 @@
-````markdown
 # 📷 Face Detection using OpenCV
 
-[![Live Demo](https://img.shields.io/badge/🚀-Live%20Demo-success?style=for-the-badge)](https://YOUR-APP-NAME.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://YOUR-APP.streamlit.app)
 
+## 🌐 Live Application
+
+👉 **[Click here to use the app](https://YOUR-APP.streamlit.app)**
 ## 🌐 Live Application
 
 👉 **Use the application here:**  
