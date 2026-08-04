@@ -1,7 +1,5 @@
 # 📷 Face Detection using OpenCV
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://YOUR-APP.streamlit.app)
-
 ## 🌐 Live Application
 
 👉 **[Click here to use the app](https://facedetection-2tq7bk3q4qwcpbg7cp2xof.streamlit.app/)
