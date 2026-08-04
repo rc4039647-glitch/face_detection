@@ -1,5 +1,9 @@
 # Face Detection using OpenCV
 
+## 🚀 Live Demo
+
+👉 **[Click here to use the app](https://your-app-name.streamlit.app)**
+
 ## Overview
 
 This project detects human faces in an image using OpenCV's Haar Cascade Classifier.
@@ -47,10 +51,6 @@ pip install -r requirements.txt
 ```
 
 ---
-
-## 🚀 Live Demo
-
-👉 **[Click here to use the app](https://your-app-name.streamlit.app)**
 
 ## Run the Project
 
