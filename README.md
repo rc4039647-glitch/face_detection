@@ -4,10 +4,7 @@
 
 ## 🌐 Live Application
 
-👉 **[Click here to use the app](https://YOUR-APP.streamlit.app)**
-## 🌐 Live Application
-
-👉 **Use the application here:**  
+👉 **[Click here to use the app](https://facedetection-2tq7bk3q4qwcpbg7cp2xof.streamlit.app/)
 https://YOUR-APP-NAME.streamlit.app
 
 ---
